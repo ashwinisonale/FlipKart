@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16056" started-at="2021-03-23T08:34:44Z" finished-at="2021-03-23T08:35:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16056" started-at="2021-03-23T08:34:44Z" finished-at="2021-03-23T08:35:00Z">
+      <class name="com.FlipKartTestCases.homePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.FlipKartTestCases.homePageTest@16293aa2]" name="setUp" is-config="true" duration-ms="11527" started-at="2021-03-23T08:34:44Z" finished-at="2021-03-23T08:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchBarElement()[pri:0, instance:com.FlipKartTestCases.homePageTest@16293aa2]" name="SearchBarElement" duration-ms="3579" started-at="2021-03-23T08:34:56Z" finished-at="2021-03-23T08:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBarElement -->
+        <test-method status="PASS" signature="searchIconBtn()[pri:0, instance:com.FlipKartTestCases.homePageTest@16293aa2]" name="searchIconBtn" duration-ms="254" started-at="2021-03-23T08:35:00Z" finished-at="2021-03-23T08:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchIconBtn -->
+      </class> <!-- com.FlipKartTestCases.homePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
